@@ -50,6 +50,6 @@ Expliquei como depender de abstrações em vez de concretizações, criando inte
 
 Sinta-se à vontade para contribuir com melhorias ou novos exemplos para este repositório. Você pode abrir uma issue ou enviar um pull request.
 
-## Contribuição
+## Licença 
 
 Este projeto está licenciado sob os termos da MIT License.
